@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PTPDelivery.Server.props" />
+</Project>

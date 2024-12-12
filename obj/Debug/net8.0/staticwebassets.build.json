@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "mfJHH0HMENcb1VfFM85mV906ZBzfYcDBL8pmBHYKnEI=",
+  "Source": "PTPDelivery.Server",
+  "BasePath": "_content/PTPDelivery.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hhh\\source\\repos\\PTPDelivery\\ptpdelivery.client\\ptpdelivery.client.esproj",
+      "Version": 2,
+      "Source": "ptpdelivery.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
