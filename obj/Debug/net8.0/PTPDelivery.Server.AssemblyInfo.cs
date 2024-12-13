@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a83de6527e17a0379aea54f3df454fea5db497fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

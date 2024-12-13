@@ -37,3 +37,4 @@ C:\Users\hhh\source\repos\PTPDelivery\PTPDelivery.Server\obj\Debug\net8.0\refint
 C:\Users\hhh\source\repos\PTPDelivery\PTPDelivery.Server\obj\Debug\net8.0\PTPDelivery.Server.pdb
 C:\Users\hhh\source\repos\PTPDelivery\PTPDelivery.Server\obj\Debug\net8.0\PTPDelivery.Server.genruntimeconfig.cache
 C:\Users\hhh\source\repos\PTPDelivery\PTPDelivery.Server\obj\Debug\net8.0\ref\PTPDelivery.Server.dll
+C:\Users\hhh\source\repos\PTPDelivery\PTPDelivery.Server\obj\Debug\net8.0\PTPDelivery.Server.sourcelink.json
