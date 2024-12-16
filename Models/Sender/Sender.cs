@@ -1,5 +1,4 @@
-﻿using PTPDelivery.Server.Models.Carrier;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Numerics;
 
 namespace PTPDelivery.Server.Models.Sender

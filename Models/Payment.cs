@@ -1,8 +1,13 @@
-﻿namespace PTPDelivery.Server.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PTPDelivery.Server.Models
 {
     public class Payment
     {
+        /// q definir apr <summary>
         /// q definir apr
+        /// </summary>
+        [Key]
         public int IdPayement { get; set; }
         public decimal Montant { get; set; }
         public DateTime DatePaiement { get; set; }

@@ -1,7 +1,10 @@
-﻿namespace PTPDelivery.Server.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PTPDelivery.Server.Models
 {
     public class Item
     {
+        [Key]
         public int IdItem { get; set; }
         public string Name { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;

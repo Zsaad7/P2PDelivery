@@ -1,7 +1,10 @@
-﻿namespace PTPDelivery.Server.Models.Carrier
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PTPDelivery.Server.Models.Carrier
 {
     public class Trip
     {
+        [Key]
         public int Id { get; set; }
         public string CurrentCity { get; set; } = string.Empty;
         public string Destination { get; set; } = string.Empty;
