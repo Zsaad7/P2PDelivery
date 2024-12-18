@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5034face-e92d-42c7-95b4-9ba8e2e8c6b8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+988343fbb7891f8c1867b6c98426b87b9e4aba58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d62884e6d623b5398c64ed34fb9fdfea71823735")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTPDelivery.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
